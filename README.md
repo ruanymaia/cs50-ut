@@ -1,2 +1,2 @@
-# cs50-ut
-CS50 - Understanding Technology assignments
+# cs50t
+CS50's Understanding Technology assignments
